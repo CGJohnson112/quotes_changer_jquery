@@ -1,0 +1,31 @@
+#slideshow { 
+    margin: 50px auto; 
+    position: relative; 
+    width: 700px; 
+    height: 100px; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+    text-align: center;
+}
+
+.box1{
+  background-color: ;
+}
+
+.box2{
+  background-color: ;
+}
+
+.box3{
+  background-color: ;
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+
+
